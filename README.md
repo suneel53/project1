@@ -1,10 +1,8 @@
 # project1
 demo project
 
-# RVR JC _IT
-## RVR
-### JC
-#### Y19IT053
-##### IT
-###### 53
-####### SUNEEL
+# suneel
+###uneelkandula53@gmail.com
+## information technology
+#### reg no:y19it053
+####ph:9515104867
