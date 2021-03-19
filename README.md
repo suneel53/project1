@@ -2,7 +2,7 @@
 demo project
 
 # suneel
-###uneelkandula53@gmail.com
 ## information technology
+###email : suneelkandula53@gmail.com
 #### reg no:y19it053
 ####ph:9515104867
