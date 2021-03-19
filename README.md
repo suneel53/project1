@@ -1,5 +1,10 @@
 # project1
 demo project
-suneek kandula
-suneelkandula53@gmail.com
-IT
+
+# RVR JC _IT
+## RVR
+### JC
+#### Y19IT053
+##### IT
+###### 53
+####### SUNEEL
