@@ -1,2 +1,5 @@
 # project1
-demo project 
+demo project
+suneek kandula
+suneelkandula53@gmail.com
+IT
